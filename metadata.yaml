@@ -1,0 +1,34 @@
+_repo: Onder-de-wilde-stammen-op-de-grenzen-van-AfghanistanDe-Aarde-en-haar-Volken-1917_22473
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pennell, T. L. (Theodore Leighton)
+    alias: Pennell, Theodore Leighton
+    birthdate: 1867
+    deathdate: 1912
+    gutenberg_agent_id: '25344'
+    url: http://www.gutenberg.org/2009/agents/25344
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Leighton_Pennell
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2007-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22473'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Punjab (India) -- Social life and customs'
+- !lcsh 'Missions -- Asia, Central'
+- !lcsh 'Afghans'
+- !lcsh 'Afghanistan -- Social life and customs'
+title: 'Onder de wilde stammen op de grenzen van Afghanistan
+
+  De Aarde en haar Volken, 1917'
+url: http://www.gutenberg.org/ebooks/22473
